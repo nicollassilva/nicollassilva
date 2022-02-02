@@ -31,9 +31,9 @@ Projetos que ainda estão em desenvolvimento:
 - [HeavenCommunity](https://github.com/nicollassilva/Heaven-Community) - [Descontinuado] Sistema de Fórum (PHP7)
 - [Scripts](https://github.com/nicollassilva/Scripts-APIs) - Scripts que podem ser úteis
 
-<a href="https://github-readme-stats.vercel.app/api?username=nicollassilva&show_icons=true&count_private=true&include_all_commits=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicollassilva&show_icons=true&count_private=true&include_all_commits=true" />
+<a href="https://github.com/nicollassilva/github-stats/blob/master/generated/overview.svg">
+  <img align="center" src="https://github.com/nicollassilva/github-stats/blob/master/generated/overview.svg" />
 </a>
-<a href="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nicollassilva&langs_count=7&hide=blade,css,html">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nicollassilva&langs_count=7&hide=blade,css,html" />
+<a href="https://github.com/nicollassilva/github-stats/blob/master/generated/languages.svg">
+  <img align="center" src="https://github.com/nicollassilva/github-stats/blob/master/generated/languages.svg" />
 </a>
