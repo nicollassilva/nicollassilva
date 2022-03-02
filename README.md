@@ -12,7 +12,7 @@
 ```
 
 - 🔭 Trabalho nos projetos [Vemto](https://vemto.app) e [RapidMockup](https://alpha.rapidmockup.net)
-- 🌱 Atualmente estudando C# e Unity
+- 🌱 Atualmente estudando GoLang
 
 > Alguns projetos em que me orgulho:
 
