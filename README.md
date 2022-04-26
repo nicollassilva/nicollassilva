@@ -34,6 +34,3 @@ Projetos que ainda estão em desenvolvimento:
 <a href="https://github.com/nicollassilva/github-stats/blob/master/generated/overview.svg">
   <img align="center" src="https://github.com/nicollassilva/github-stats/blob/master/generated/overview.svg" />
 </a>
-<a href="https://github.com/nicollassilva/github-stats/blob/master/generated/languages.svg">
-  <img align="center" src="https://github.com/nicollassilva/github-stats/blob/master/generated/languages.svg" />
-</a>
