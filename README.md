@@ -30,7 +30,3 @@ Projetos que ainda estão em desenvolvimento:
 - [HabboAcademy](https://github.com/nicollassilva/habboacademycms) - Fã-site Open-Source para o Habbo Hotel (Laravel 8 e VueJS)
 - [HeavenCommunity](https://github.com/nicollassilva/Heaven-Community) - [Descontinuado] Sistema de Fórum (PHP7)
 - [Scripts](https://github.com/nicollassilva/Scripts-APIs) - Scripts que podem ser úteis
-
-<a href="https://github.com/nicollassilva/github-stats/blob/master/generated/overview.svg">
-  <img align="center" src="https://github.com/nicollassilva/github-stats/blob/master/generated/overview.svg" />
-</a>
