@@ -12,21 +12,21 @@
 ```
 
 - 🔭 Trabalho nos projetos [Vemto](https://vemto.app) e [RapidMockup](https://alpha.rapidmockup.net)
-- 🌱 Atualmente estudando GoLang
 
 > Alguns projetos em que me orgulho:
 
 - 🥇 [MinasRouter](https://github.com/nicollassilva/minasrouter) - Componente de rotas ágil e de fácil manutenção para projetos MVC em PHP
 - 🥈 [MinasORM](https://github.com/nicollassilva/minasorm) - Facilita a comunicação com o banco de dados por meio de métodos encadeados (como o Eloquent, do Laravel)
-- 🥉 [HabboHome](https://github.com/nicollassilva/habbo-home) - Remake da Habbo Home (Laravel 8)
+- 🥉 [HabboHome](https://github.com/nicollassilva/habbo-home) - Remake da Habbo Home (Laravel)
 - 🎮 [Flappy Bird](https://github.com/nicollassilva/Flappy-Bird) - Clone do jogo Flappy Bird (Javascript)
 - 🎮 [Jogo da Velha](https://github.com/nicollassilva/didactic-project/tree/main/Jogo%20da%20Velha) - Clone do Jogo da Velha (Javascript)
 - 🧩 [RichText Editor](https://github.com/nicollassilva/didactic-project/tree/main/RichText%20Editor) - RichText Editor com algumas funções simples (Javascript)
-- 🎯 [Discord Clone](https://github.com/nicollassilva/discord-clone-vuejs) - Clone do Discord (Laravel 8 e VueJS)
+- 🎯 [Discord Clone](https://github.com/nicollassilva/discord-clone-vuejs) - Clone front-end do Discord (Laravel + VueJS)
 
-Projetos que ainda estão em desenvolvimento:
+Outros projetos:
 
 - [Realtime Chat](https://github.com/nicollassilva/chat-socketio) - Mecanismo de chat em VueJS e SocketIO (com envio de imagens, emoticons e remoção de mensagens)
-- [HabboAcademy](https://github.com/nicollassilva/habboacademycms) - Fã-site Open-Source para o Habbo Hotel (Laravel 8 e VueJS)
+- [HabboAcademy](https://github.com/nicollassilva/habboacademycms) - [Descontinuado] Site de notícias/conteúdos para o Habbo Hotel (Laravel 8 e VueJS)
 - [HeavenCommunity](https://github.com/nicollassilva/Heaven-Community) - [Descontinuado] Sistema de Fórum (PHP7)
-- [Scripts](https://github.com/nicollassilva/Scripts-APIs) - Scripts que podem ser úteis
+- [Scripts](https://github.com/nicollassilva/Scripts-APIs) - Scripts que podem ser úteis (old)
+
