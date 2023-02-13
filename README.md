@@ -6,27 +6,37 @@
 ```json
 {
   "name": "Nicollas",
-  "age": 22,
-  "discord": "Nicollas#8412"
+  "age": 23,
+  "discord": "Nicollas#8412",
+  "country": "Brazil"
 }
 ```
 
-- 🔭 Trabalho nos projetos [Vemto](https://vemto.app) e [RapidMockup](https://alpha.rapidmockup.net)
+- 🔭 Developer at:
 
-> Alguns projetos em que me orgulho:
+-   [Vemto](https://vemto.app/)
+-   [RapidMockup](https://alpha.rapidmockup.net/)
+-   [Sublimme](https://sublim.me/)
 
-- 🥇 [MinasRouter](https://github.com/nicollassilva/minasrouter) - Componente de rotas ágil e de fácil manutenção para projetos MVC em PHP
-- 🥈 [MinasORM](https://github.com/nicollassilva/minasorm) - Facilita a comunicação com o banco de dados por meio de métodos encadeados (como o Eloquent, do Laravel)
-- 🥉 [HabboHome](https://github.com/nicollassilva/habbo-home) - Remake da Habbo Home (Laravel)
-- 🎮 [Flappy Bird](https://github.com/nicollassilva/Flappy-Bird) - Clone do jogo Flappy Bird (Javascript)
-- 🎮 [Jogo da Velha](https://github.com/nicollassilva/didactic-project/tree/main/Jogo%20da%20Velha) - Clone do Jogo da Velha (Javascript)
-- 🧩 [RichText Editor](https://github.com/nicollassilva/didactic-project/tree/main/RichText%20Editor) - RichText Editor com algumas funções simples (Javascript)
-- 🎯 [Discord Clone](https://github.com/nicollassilva/discord-clone-vuejs) - Clone front-end do Discord (Laravel + VueJS)
+I'm fullstack programmer, I love backend and technology.
 
-Outros projetos:
+I use in my work:
 
-- [Realtime Chat](https://github.com/nicollassilva/chat-socketio) - Mecanismo de chat em VueJS e SocketIO (com envio de imagens, emoticons e remoção de mensagens)
-- [HabboAcademy](https://github.com/nicollassilva/habboacademycms) - [Descontinuado] Site de notícias/conteúdos para o Habbo Hotel (Laravel 8 e VueJS)
-- [HeavenCommunity](https://github.com/nicollassilva/Heaven-Community) - [Descontinuado] Sistema de Fórum (PHP7)
-- [Scripts](https://github.com/nicollassilva/Scripts-APIs) - Scripts que podem ser úteis (old)
+- Laravel (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, Sail);
+- VueJS 2 and 3, (Compositions API e Options API);
+- TailwindCSS;
+- Bootstrap;
+- Regular expressions;
+- MySQL;
+- AlpineJS;
+- Unit tests with PHPUnit/Pest and Jest;
+- BabylonJS (3D Engine);
+- SASS;
+- Websocket (SocketIO/API native);
 
+Others knowledge: (not so in-depth, but that were once part of some job/hobby):
+
+- Java
+- C# (Unity Platform)
+- ReactJS
+- Typescript
