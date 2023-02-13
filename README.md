@@ -12,7 +12,7 @@
 }
 ```
 
-- 🔭 Developer at:
+Developer at:
 
 -   [Vemto](https://vemto.app/)
 -   [RapidMockup](https://alpha.rapidmockup.net/)
