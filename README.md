@@ -6,9 +6,11 @@
 ```json
 {
   "name": "Nicollas",
+  "nickname": "iNicollas or Volwer",
   "age": 23,
   "discord": "Nicollas#8412",
-  "country": "Brazil"
+  "country": "🇧🇷 Brazil",
+  "love": "Lasanha"
 }
 ```
 
