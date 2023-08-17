@@ -24,7 +24,7 @@ Developer at:
 
 I use in my work:
 
-- **Laravel** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, Sail);
+- **Laravel** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, etc);
 - **VueJS 2 and 3**
 - **TailwindCSS**
 - **Bootstrap**
@@ -35,12 +35,13 @@ I use in my work:
 - **BabylonJS** (3D Engine)
 - **SASS**
 - **Websocket** (SocketIO/native API)
+- ReactPHP
 
 Other knowledge: (not so in-depth, but that was once part of some job/hobby):
 
 - **Java**
 - **C#** (Unity Platform)
-- **ReactJS**
+- **React**
 - **Typescript**
 
 ![](https://komarev.com/ghpvc/?username=nicollassilva&style=for-the-badge)
