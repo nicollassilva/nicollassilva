@@ -42,3 +42,5 @@ Other knowledge: (not so in-depth, but that was once part of some job/hobby):
 - **C#** (Unity Platform)
 - **ReactJS**
 - **Typescript**
+
+![](https://komarev.com/ghpvc/?username=nicollassilva&style=for-the-badge)
