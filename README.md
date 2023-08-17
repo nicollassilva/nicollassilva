@@ -20,6 +20,7 @@ Developer at:
 -   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
 -   [**Sublimme**](https://sublim.me/) - A complete platform for printing and sublimation management
 -   [**OrionCMS**](https://orionprojects.net/) - A modern and secure habbo CMS for Arcturus Emulator
+-   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP
 
 I use in my work:
 
