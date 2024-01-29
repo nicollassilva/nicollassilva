@@ -6,11 +6,9 @@
 ```json
 {
   "name": "Nicollas",
-  "username": "iNicollas",
-  "age": 23,
-  "discord": "inicollas",
-  "country": "🇧🇷 Brazil",
-  "love": "Lasanha"
+  "usernames": ["iNicollas", "Volwer"],
+  "age": 24,
+  "discord": "inicollas"
 }
 ```
 
@@ -18,7 +16,6 @@ Developer at:
 
 -   [**Vemto**](https://vemto.app/) - A complete studio and code generator for Laravel and PHP
 -   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
--   [**Sublimme**](https://sublim.me/) - A complete platform for printing and sublimation management
 -   [**OrionCMS**](https://orionprojects.net/) - A modern and secure habbo CMS for Arcturus Emulator
 -   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP
 
