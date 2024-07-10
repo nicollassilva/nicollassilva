@@ -16,9 +16,6 @@ Developer at:
 
 -   [**Vemto**](https://vemto.app/) - A complete studio and code generator for Laravel and PHP
 -   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
--   [**OrionCMS**](https://github.com/orion-server/cms) - A modern and secure habbo CMS for Arcturus Emulator
--   [**Orion Emulator**](https://github.com/orion-server/emulator) - A Habbo emulator made with Java
--   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP
 
 I use in my work:
 
@@ -41,5 +38,13 @@ Other knowledge: (not so in-depth, but that was once part of some job/hobby):
 - **C#** (Unity Platform)
 - **React**
 - **Typescript**
+
+Others projects:
+
+-   [**OrionCMS**](https://github.com/orion-server/cms) - A modern and secure habbo CMS for Arcturus Emulator (Laravel, AlpineJS+)
+-   [**Orion Emulator**](https://github.com/orion-server/emulator) - A Habbo emulator made with Java (From scratch)
+-   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP (From scratch)
+-   [**Ruby Comet**](https://github.com/nicollassilva/ruby-emulator) - A custom Habbo emulator based on Comet (by LeonHartley)
+-   And several others..
 
 ![](https://komarev.com/ghpvc/?username=nicollassilva&style=for-the-badge)
