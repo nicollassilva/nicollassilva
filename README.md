@@ -16,7 +16,8 @@ Developer at:
 
 -   [**Vemto**](https://vemto.app/) - A complete studio and code generator for Laravel and PHP
 -   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
--   [**OrionCMS**](https://orionprojects.net/) - A modern and secure habbo CMS for Arcturus Emulator
+-   [**OrionCMS**](https://github.com/orion-server/cms) - A modern and secure habbo CMS for Arcturus Emulator
+-   [**Orion Emulator**](https://github.com/orion-server/emulator) - A Habbo emulator made with Java
 -   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP
 
 I use in my work:
