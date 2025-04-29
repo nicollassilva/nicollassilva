@@ -12,12 +12,6 @@
 }
 ```
 
-Developer at:
-
--   [**Vemto**](https://vemto.app/) - A complete studio and code generator for Laravel and PHP
--   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
--   [**OrionServer**](https://github.com/orion-server/) - A Habbo game resource pack (a hobby for educational and open-source studies)
-
 I use in my work:
 
 - **Laravel** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, etc);
