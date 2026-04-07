@@ -5,41 +5,40 @@
 
 ```json
 {
-  "name": "Nicollas",
-  "usernames": ["iNicollas", "Volwer"],
-  "age": 25,
-  "discord": "inicollas"
+  "usernames": "iNicollas",
+  "discord": ["inicollas", "Nicollas#8412"],
+  "bio": "Quality > Quantity. Choose wisely!"
 }
 ```
 
 I use in my work:
 
-- **Laravel** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, etc);
-- **VueJS 2 and 3**
+- **Laravel** (Jetstream, Breeze, Nova, Cashier, Socialite, Livewire and more);
+- **VueJS**
 - **TailwindCSS**
 - **Bootstrap**
 - **Regular expressions**
 - **MySQL**
+- **FilamentPHP**
 - **AlpineJS**
 - Tests with **PHPUnit/Pest** and **Jest**
-- **BabylonJS** (3D Engine)
 - **SASS**
 - **Websocket** (SocketIO/native API)
-- ReactPHP
 
 Other knowledge: (not so in-depth, but that was once part of some job/hobby):
 
-- **Java**
-- **C#** (Unity Platform)
-- **React**
+- **Java** (Google Guice, HikariCP, Netty, Log4J and more)
 - **Typescript**
+- **React**
+- **Babylon.js**
+- **PixiJS**
+- **P5.js**
+- ReactPHP
 
-Others projects:
+Some interesting projects:
 
--   [**OrionCMS**](https://github.com/orion-server/cms) - A modern and secure habbo CMS for Arcturus Emulator (Laravel, AlpineJS+)
--   [**Orion Emulator**](https://github.com/orion-server/emulator) - A Habbo emulator made with Java (From scratch)
+-   [**OrionCMS**](https://github.com/orion-server/cms) - A modern and secure CMS for Arcturus Emulator (Laravel, Filament, AlpineJS, SASS and more)
 -   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP (From scratch)
--   [**Ruby Comet**](https://github.com/nicollassilva/ruby-emulator) - A custom Habbo emulator based on Comet (by LeonHartley)
 -   And several others..
 
 ![](https://komarev.com/ghpvc/?username=nicollassilva&style=for-the-badge)
